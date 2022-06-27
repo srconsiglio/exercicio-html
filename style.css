@@ -1,0 +1,42 @@
+*{
+    border: solid purple 5px;
+}
+
+
+h4 {
+    color:blue;
+    border: dashed black 2px;
+}
+
+ul{
+    color: pink;
+    font-size: 20px;
+    color:blue;
+    border: dashed black 2px;
+}
+
+
+body{
+    background-color:#ff0000;
+    color:blue;
+    
+
+}
+
+body{
+    background-image: url('imagem.jpg');
+    background-size: cover ;
+    
+
+}
+
+
+.filme{
+    color: aqua;
+}
+.filme2{
+    color: #ff0000;
+}
+#titulo {
+    color: black;
+}
